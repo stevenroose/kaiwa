@@ -1,0 +1,20 @@
+{
+    "isDev": true,
+    "http": {
+        "host": "localhost",
+        "port": 8000
+    },
+    "session": {
+        "secret": "dageteeeeregesmorregelt enalles zegt"
+    },
+    "server": {
+        "name": "Weusteclub Chat",
+        "domain": "chat.weuste.club",
+        "wss": "wss://chat.weuste.club/xmpp-websocket",
+        "muc": "chat.weuste.club",
+        "startup": "groupchat/room%40chat.weuste.club",
+        "admin": "admin"
+    }
+}
+
+
