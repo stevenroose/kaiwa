@@ -2,7 +2,8 @@
     "isDev": true,
     "http": {
         "host": "localhost",
-        "port": 8000
+        "port": 8000,
+        "baseUrl": "http://127.0.0.1:800"
     },
     "session": {
         "secret": "dageteeeeregesmorregelt enalles zegt"
@@ -13,7 +14,7 @@
         "wss": "wss://chat.weuste.club/xmpp-websocket",
         "muc": "chat.weuste.club",
         "startup": "groupchat/room%40chat.weuste.club",
-        "admin": "admin"
+        "admin": "steven@roose.ch"
     }
 }
 
